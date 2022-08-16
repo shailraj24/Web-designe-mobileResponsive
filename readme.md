@@ -15,4 +15,4 @@ it's take near about 2 Hour to complete.
 
 ## Deployed link
 
-[Web designe | MObile responsive](home-plant.netlify.app)
+[Web designe | MObile responsive](https://web-designe-responsive.netlify.app/)
